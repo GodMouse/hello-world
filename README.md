@@ -3,4 +3,10 @@ Just another repository
 Long long ago
 China America Cuba
 
-I love my country!!
+<<<<<<< HEAD
+How old are you?
+What's your name?
+=======
+How old are you?
+What's your name?
+>>>>>>> foo
